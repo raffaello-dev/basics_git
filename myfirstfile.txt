@@ -1,3 +1,4 @@
 Este es mi primer archivo para practicar git con el chekelete
 Siguiente linea agregada, veamos que pasó
 Tercera línea
+Nueva linea por Rafita
